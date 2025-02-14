@@ -10,7 +10,7 @@
 - 📫 How to reach me **teju.dataengineer@gmail.com**
 
 
-<p align="left">
+
 <a href="https://twitter.com/t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="t" height="30" width="40" /></a>
 </p>
 
